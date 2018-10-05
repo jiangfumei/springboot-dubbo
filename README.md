@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # springboot-dubbox
 基于spring-boot dubbox搭建的java分布式系统
 - 前后端分离
@@ -30,7 +30,7 @@
 - 执行db-script中的数据库初始化脚本
 - 在pom.xml中配置zookeeper连接地址
 - 启动SysProviderApplication后分别启动ClientMobileApplication和WebAdminApplication
-=======
+
 # springboot-dubbo
 基于spring-boot dubbox搭建的java分布式系统
     前后端分离
@@ -51,4 +51,3 @@
     接口访问次数限制
     okhttp3第三方接口调用
     druid sql监控
->>>>>>> 9b9f66274f3e9ddc0869273a69bbd1b320309d8b
